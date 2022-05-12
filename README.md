@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viraggggg
 - 👀 I’m interested in c++
-- 🌱 I’m currently learning python 3
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
